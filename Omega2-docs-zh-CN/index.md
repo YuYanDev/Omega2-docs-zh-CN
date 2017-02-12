@@ -23,4 +23,17 @@
     * 找出如何用有线或是无线的方法连接Omega
   * [Omega网络设备](omega-as-a-network-device.html)
     * 如何使用Omega计算机联网的目的
-  * 
+  * [使用扩展](using-omega-hardware.html)
+    * 有关使用Omega扩展的指南
+  * [进阶用法](advanced-topics.html)
+    * 每天都要使用的常规用法
+  * [使用控制台](the-console.html)
+    * 在浏览器上使用Omega控制台的指南
+  * [使用命令行](the-terminal.html)
+    * 使用命令行的指南
+  * [固件](firmware-reference.html)
+    * 有关Omega固件的信息，包括版本更新日志和已知问题的列表
+  * [软件参考](software-reference.html)
+    * Onion提供的软件文档
+
+  We’ll cover a whole lot more along the way, let’s dive in!
