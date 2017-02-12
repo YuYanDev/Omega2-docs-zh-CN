@@ -23,7 +23,7 @@
 * [如何连接Omega](omega-and-connectivity.html)
   * 找出如何用有线或是无线的方法连接Omega
 * [Omega网络设备](omega-as-a-network-device.html)
-* * 如何使用Omega计算机联网的目的
+  * 如何使用Omega计算机联网的目的
 * [使用扩展](/using-omega-hardware.html)
 
   * 有关使用Omega扩展的指南
