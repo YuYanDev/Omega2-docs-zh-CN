@@ -4,3 +4,6 @@
 * [开始](Omega2-docs-zh-CN/get-started.md)
   * [初始化](Omega2-docs-zh-CN/first-time-setup.md)
     * [拆箱和硬件初始化](Omega2-docs-zh-CN/first-time-setup.md#拆箱和硬件初始化)
+    * [使用安装向导](Omega2-docs-zh-CN/first-time-setup.md#使用安装向导)
+    * [如果无法设置](Omega2-docs-zh-CN/first-time-setup.md#如果无法设置)
+  * [第一次配置使用命令行]
