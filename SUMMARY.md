@@ -24,3 +24,4 @@
     * [修复冲突](Omega2-docs-zh-CN/fix-ip-addr-collisions.md#修复冲突)
 * [硬件预览](Omega2-docs-zh-CN/hardware-overview.md)
 * [使用Omega](Omega2-docs-zh-CN/doing-stuff.md)
+  * [Omega2](Omega2-docs-zh-CN/omega2.md)
